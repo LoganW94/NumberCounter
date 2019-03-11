@@ -77,4 +77,4 @@ def count_num(num):
     """ 
     % (zero, one, two, three, four, five, six, seven, eight, nine ) )
   
-count_num(10000)
+count_num(33389)
